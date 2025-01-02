@@ -40,3 +40,6 @@ To grow sales in 2023, Vrinda Store should:
 - Promote tailored ads, offers, and coupons on **Amazon, Flipkart, and Myntra**, as these channels yield the highest engagement.
 
 This data-driven approach empowers Vrinda Store to refine its strategies and achieve targeted growth. With a clear understanding of customer preferences and market trends, the store can position itself for sustained success.
+## Dashboard 
+![Dashboard](https://github.com/user-attachments/assets/69dae05a-c845-4683-9e25-54d98e8484b0)
+
