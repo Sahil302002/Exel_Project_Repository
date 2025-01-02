@@ -9,7 +9,9 @@ The primary goal of this analysis is to enable Vrinda Store to:
 - Understand customer behavior and preferences.
 - Identify high-performing sales channels and regions.
 - Optimize marketing strategies to boost sales in 2023.
-- 
+  ## Dataset used
+- <a href = "https://github.com/Sahil302002/Exel_Project_Repository/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx"> Dataset </a>
+  
 ### **Key Questions Addressed**
 
 1. What is the comparison of sales and orders using a single chart?
