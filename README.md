@@ -22,6 +22,8 @@ The primary goal of this analysis is to enable Vrinda Store to:
 6. What is the relationship between age and gender based on purchase numbers?
 7. Which sales channel performed best?
 8. What is the highest-selling product category?
+   ## Dashboard Image View
+- <a href = "https://github.com/Sahil302002/Exel_Project_Repository/blob/main/Dashboard.png"> Dasbboard </a>
 
 ### **Sample Insights**
 
