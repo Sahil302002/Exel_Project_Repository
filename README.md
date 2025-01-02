@@ -9,7 +9,7 @@ The primary goal of this analysis is to enable Vrinda Store to:
 - Understand customer behavior and preferences.
 - Identify high-performing sales channels and regions.
 - Optimize marketing strategies to boost sales in 2023.
-
+- 
 ### **Key Questions Addressed**
 
 1. What is the comparison of sales and orders using a single chart?
